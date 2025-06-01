@@ -55,6 +55,6 @@ This system offers a simple and intuitive GUI for managing a car dealership’s 
 3. Data is automatically saved and loaded from CSV files.
 
 ---
-🫱🏻‍🫲🏻 This project was developed in collaboration with three other contributors @Amrita Vishwa Vidyapeetham
+🫱🏻‍🫲🏻 This project was developed in collaboration with 3 other contributors @Amrita Vishwa Vidyapeetham
 
 ❤️ Thank you for checking out this Car Dealership Management System!
