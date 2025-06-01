@@ -31,6 +31,17 @@ A **Python-based Car Dealership Management System** with a user-friendly **Tkint
 
 ---
 
+## 🛠 My Contribution
+
+- **Delete Functionality**: Developed logic to remove records from the appropriate CSV files with custom handling (e.g., quantity check for inventory, direct deletion for others).
+
+- **Display (Data) Feature**: Implemented the feature to read from CSVs and dynamically display data in tabular format with plots and visually appealing charts using:
+  - **Matplotlib** for data visualization  
+  - **Tabulate** for table formatting  
+  - **tkcalendar** for calendar widgets
+
+---
+
 ## Description
 
 This system offers a simple and intuitive GUI for managing a car dealership’s inventory and records. It supports all essential CRUD (Create, Read, Update, Delete) operations with easy navigation and clean data presentation. The use of CSV files keeps the data lightweight and easily portable.
