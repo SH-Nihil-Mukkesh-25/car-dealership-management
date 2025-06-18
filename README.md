@@ -20,7 +20,7 @@ A **🐍 Python-based Car Dealership Management System** with a user-friendly **
 
 ---
 
-## Technologies & Libraries Used
+## 🛠️ Technologies & Libraries Used
 
 - **Python**  
 - **Tkinter** (Graphical User Interface)  
@@ -28,6 +28,24 @@ A **🐍 Python-based Car Dealership Management System** with a user-friendly **
 - **Matplotlib** (Data visualization)  
 - **tkcalendar** (Date picker widgets)  
 - **Tabulate** (Pretty-print tabular data)
+
+---
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/SH-Nihil-Mukkesh-25/car-dealership-management.git
+
+# Navigate to the project directory
+cd car-dealership-management
+
+# Install the required libraries
+pip install -r requirements.txt
+
+# Run the application
+python final_cps.py
+```
 
 ---
 
